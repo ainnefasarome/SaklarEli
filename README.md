@@ -1,4 +1,7 @@
 # Saklar Eli — Alternatif Tombol Volume
+\n<p align="center">
+  <img src="icon-SaklarEli.PNG" alt="Saklar Eli Icon" width="150">
+</p>
 
 <p align="center">
   <b>Aplikasi non-UI (tanpa antarmuka pengguna) sebagai alternatif untuk mengakses kontrol volume pada smartphone.</b>
@@ -55,7 +58,7 @@ Dengan demikian, panel yang muncul adalah **panel volume asli dari sistem smartp
 
 ## Tujuan Pembuatan
 
-Saklar Eli dibuat oleh **Banghans** untuk membantu pengguna smartphone yang tombol volume fisiknya mengalami kerusakan.
+Saklar Eli dibuat untuk membantu pengguna smartphone yang tombol volume fisiknya mengalami kerusakan.
 
 Tidak semua pengguna dapat langsung memperbaiki tombol tersebut. Biaya perbaikan juga dapat menjadi kendala.
 
@@ -110,7 +113,9 @@ Saklar Eli tidak memperbaiki tombol volume fisik. Aplikasi ini hanya menyediakan
 
 ## Download
 
-Klik file **Saklar Eli.apk** di halaman ini untuk mengunduh.
+Silakan kunjungi halaman **[Releases](https://github.com/ainnefasarome/SaklarEli/releases)** pada repositori ini untuk mengunduh versi terbaru.
+
+Pastikan untuk mengunduh hanya dari halaman resmi repositori ini.
 
 ---
 
