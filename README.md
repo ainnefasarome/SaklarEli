@@ -1,5 +1,6 @@
 # Saklar Eli — Alternatif Tombol Volume
-\n<p align="center">
+
+<p align="center">
   <img src="icon-SaklarEli.PNG" alt="Saklar Eli Icon" width="150">
 </p>
 
@@ -11,6 +12,7 @@
   <img src="https://img.shields.io/badge/Android-1%20--%2014-green" alt="Android Support">
   <img src="https://img.shields.io/badge/Status-Stable-brightgreen" alt="Status">
   <img src="https://img.shields.io/badge/UI-No--UI-blue" alt="UI">
+  <img src="https://img.shields.io/badge/License-MIT-yellow" alt="License">
 </p>
 
 ---
@@ -25,6 +27,7 @@
 - [FAQ](#faq)
 - [Catatan](#catatan)
 - [Download](#download)
+- [Lisensi](#lisensi)
 
 ---
 
@@ -122,3 +125,13 @@ Pastikan untuk mengunduh hanya dari halaman resmi repositori ini.
 **Saklar Eli — sederhana, ringan, dan membantu.**
 
 Dibuat untuk membantu berbagai pengguna smartphone yang membutuhkan alternatif ketika tombol volume fisik tidak dapat digunakan.
+
+---
+
+## Lisensi
+
+Repositori ini dipakai untuk dokumentasi dan distribusi rilis APK. Dirilis di bawah [Lisensi MIT](LICENSE).
+
+---
+
+<p align="center">Dibuat oleh <a href="https://ainnefasarome.github.io/Banghans.dev/">Banghans</a> · Hans Developer</p>
